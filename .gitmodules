@@ -1,0 +1,3 @@
+[submodule "cad_files"]
+	path = cad_files
+	url = https://github.com/merluzo-bot/cad_files
